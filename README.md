@@ -1,16 +1,31 @@
-### Hi there 👋
+Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
-<!--
-**FrancoisGib/FrancoisGib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Main projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A strategy game made in Java. [Pandemic](https://github.com/FrancoisGib/Pandemic/)
+
+- An artist website made in React JS. [Site](https://github.com/FrancoisGib/artist-web-app/)
+
+- A cube game with Pathfinding algorithm. [CubeGame](https://github.com/FrancoisGib/GraphsCube/)
+
+
+# Skills
+
+## Front End
+
+- HTML, CSS, Javascript
+- React JS (
+- TailWind
+- Typescript (basics)
+
+## Back End
+
+- C
+- PHP
+- mySQL
+- Java
+- node js (basics)
+- Python
+
+
