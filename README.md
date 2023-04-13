@@ -15,7 +15,7 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 ## Front End
 
 - HTML, CSS, Javascript
-- React JS (
+- React JS
 - TailWind
 - Typescript (basics)
 
