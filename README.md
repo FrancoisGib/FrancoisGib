@@ -25,9 +25,11 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
 - C
 - PHP
-- mySQL
+- SQL
 - Java
 - node js (basics)
 - Python
+- Haskell
+- MongoDB
 
 
