@@ -1,6 +1,6 @@
 Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
-![]([https://raw.githubusercontent.com/FrancoisGib/github-stats/af66a0b6428b3e2957a3e28de23860b6ab43d432/generated/languages.svg?token=A2X7MKDETPV2I6VT37URNPDFUH6FC#gh-dark-mode-only](https://github.com/FrancoisGib/github-stats/blob/master/generated/languages.svg?raw=true#gh-dark-mode-only))
+![](https://github.com/FrancoisGib/github-stats/blob/master/generated/languages.svg?raw=true#gh-dark-mode-only)
 # Main projects
 
 - A conception project in java, with maven. [Conception](https://github.com/FrancoisGib/conception/)
