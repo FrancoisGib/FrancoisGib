@@ -9,7 +9,7 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
 - A small funny game in pure JS. [Bird Shooter](https://github.com/FrancoisGib/birdShooter)
 
-- Linear regression algorithms for machine learning [Linear Regression](https://github.com/FrancoisGib/linear-regression-algorithms)
+- The emulation of a processor with its own assembly language. [Microprocessor](https://github.com/FrancoisGib/microprocessor)
 
 
 # Skills
