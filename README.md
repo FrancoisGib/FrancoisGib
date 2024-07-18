@@ -1,4 +1,4 @@
-Hi ! I'm **François Gibier** and I'm a french CS student in Lille.
+Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
 ![](https://github.com/FrancoisGib/github-stats/blob/master/generated/languages.svg?raw=true#gh-dark-mode-only)
 # Main projects
@@ -11,6 +11,12 @@ Hi ! I'm **François Gibier** and I'm a french CS student in Lille.
 
 - The emulation of a microprocessor with its own assembly language. [Microprocessor](https://github.com/FrancoisGib/microprocessor)
 
+
+These days i'm working on a microservices project, I intend to make a cloud computing platform like (smaller though) with docker containers and auto deployment, I make this project to improve myself in the Spring Framework and it's environment, also in networking, docker, kubernetes, configuration of bigger projects and handle many services communication..
+I had to understand more about how Docker API works to make my private docker images registry working with my API gateway.
+I also wanted to code in C (because I like that) so I made an http server to create a micro-service and use it in my cluster, so i'm working on an optimized data structure to create endpoints and stuff like JEE servlets does.</br>
+[Microservices](https://github.com/FrancoisGib/projet-microservices)</br>
+[http](https://github.com/FrancoisGib/http)
 
 # Skills
 
