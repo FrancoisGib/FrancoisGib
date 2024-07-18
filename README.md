@@ -67,6 +67,3 @@ Azure Pipelines, Powershell (+ Azure Automation).</br>
 
 ## Tools
 Maven, npm, Git, Figma, Confluence...
-
-</br></br>
-**Excelsior**
