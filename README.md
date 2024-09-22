@@ -7,13 +7,13 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 - A microservices project for auto containers deployments in Kubernetes cluster written in Spring and React (+rabbitmq, typescript, pgsql, docker...)
 [Microservices](https://github.com/FrancoisGib/projet-microservices)
 
-- A conception project in java, with maven. [Conception](https://github.com/FrancoisGib/conception)
+- A printf like in assembly (print arrays, but not floats). [mprintf](https://github.com/FrancoisGib/mprintf)
 
-- A strategy game made in Java. [Pandemic](https://github.com/FrancoisGib/Pandemic)
-
-- A small funny game in pure JS. [Bird Shooter](https://github.com/FrancoisGib/birdShooter)
+- A conception project in java, with maven (vehicles management). [Conception](https://github.com/FrancoisGib/conception)
 
 - The emulation of a microprocessor with its own assembly language. [Microprocessor](https://github.com/FrancoisGib/microprocessor)
+
+- A small funny game in pure JS. [Bird Shooter](https://github.com/FrancoisGib/birdShooter)
 
 
 # Skills
