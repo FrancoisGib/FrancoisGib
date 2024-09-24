@@ -21,7 +21,7 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logoColor=white)
-<img src="https://img.shields.io/badge/ASM-25344c" width="45px" height="28px" />
+![ASM](https://img.shields.io/badge/ASM-25344c?style=for-the-badge)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
