@@ -9,7 +9,7 @@ Hi ! I'm **François Gibier** and i'm a french CS student in Lille.
 
 - A printf like in assembly (print arrays, but not floats). [mprintf](https://github.com/FrancoisGib/mprintf)
 
-- A conception project in java, with maven (vehicles management). [Conception](https://github.com/FrancoisGib/conception)
+- An HTTP server written in C. [HTTP](https://github.com/FrancoisGib/http)
 
 - The emulation of a microprocessor with its own assembly language. [Microprocessor](https://github.com/FrancoisGib/microprocessor)
 
